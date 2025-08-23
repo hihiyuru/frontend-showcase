@@ -1,0 +1,21 @@
+# Node
+node_modules/
+
+# Vite
+/dist
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Env
+.env*
+
+# Others
+pnpm-lock.yaml
