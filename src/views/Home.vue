@@ -9,12 +9,6 @@
               class="px-6 py-2 text-lg rounded bg-yellow-500 text-white hover:bg-yellow-700 transition">技能選擇器</button>
           </router-link>
         </li>
-        <li>
-          <router-link to="/dropdown">
-            <button
-              class="px-6 py-2 text-lg rounded bg-yellow-500 text-white hover:bg-yellow-700 transition">下拉選單</button>
-          </router-link>
-        </li>
       </ul>
     </div>
   </div>
